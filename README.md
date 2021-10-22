@@ -1,29 +1,27 @@
-- 👋 Hi, I’m @JayTheCreator
-
-## 🖥️ Technologies
-## 🖥️ Frontend
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg">
-  <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Jhon-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Jhon-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<h3>
   
-</div>
+```javascript
+const JayTheCreator = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "HTML/CSS"],
+    askMeAbout: ["web dev", "tech", "fullStack", "frontEnd", "backEnd", "mern"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            py: ["Django"]
+        },
+        frontEnd: {
+            js: ["ReactJS", "Redux"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongo", "MySql", "sqlite", "postgresql", "mariaDB"],
+        misc: ["Firebase", "Socket.IO", "Photoshop"]
+    },
+    currentFocus: "Full Stack Development"
+};
+```
+</h3>
 
-## 🖥️ Backend
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
 </br>
 <div>
   <a href="https://github.com/jhonathancs">
