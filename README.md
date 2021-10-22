@@ -15,7 +15,7 @@ const JayTheCreator = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongo", "MySql", "sqlite", "postgresql", "mariaDB"],
-        misc: ["Firebase", "Socket.IO", "Photoshop"]
+        misc: ["Firebase", "Socket.IO", "linux", "bash", "photoshop"]
     },
     currentFocus: "Full Stack Development"
 };
