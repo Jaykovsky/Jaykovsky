@@ -2,20 +2,22 @@
   
 ```javascript
 const JayTheCreator = {
+    name: "Jaisson Machado",
     pronouns: "He" | "Him",
+    os: "Arch Linux", "Windows 10", "Windows 11",
     code: ["Javascript", "Typescript", "Python", "Java", "HTML/CSS"],
-    askMeAbout: ["web dev", "tech", "fullStack", "frontEnd", "backEnd", "mern"],
+    askMeAbout: ["WebDev", "Tech", "FullStack", "FrontEnd", "BackEnd", "MERN"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
             py: ["Django"]
         },
         frontEnd: {
-            js: ["ReactJS", "Redux"]
+            js: ["ReactJS", "Redux", "NextJS"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite", "postgresql", "mariaDB"],
-        misc: ["Firebase", "Socket.IO", "linux", "bash", "photoshop"]
+        databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "MariaDB"],
+        misc: ["Firebase", "Socket.IO", "Linux", "Bash", "Photoshop", "Premiere"]
     },
     currentFocus: "Full Stack Development"
 };
@@ -24,7 +26,7 @@ const JayTheCreator = {
 
 </br>
 <div>
-  <a href="https://github.com/jhonathancs">
+  <a href="https://github.com/JayTheCreator">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=JayTheCreator&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayTheCreator&layout=compact&langs_count=16&theme=radical"/>
 </div>
