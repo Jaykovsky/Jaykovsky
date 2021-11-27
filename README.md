@@ -10,6 +10,7 @@ const JayTheCreator = {
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
+            php: ["Laravel"],
             py: ["Django"]
         },
         frontEnd: {
