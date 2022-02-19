@@ -25,9 +25,3 @@ const JayTheCreator = {
 ```
 </h3>
 
-</br>
-<div>
-  <a href="https://github.com/JayTheCreator">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=JayTheCreator&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayTheCreator&layout=compact&langs_count=16&theme=radical"/>
-</div>
