@@ -1,26 +1,28 @@
 <h3>
   
 ```javascript
-const JayTheCreator = {
+var JayTheCreator = {
     name: "Jaisson Machado",
     pronouns: "He" | "Him",
-    os: "Arch Linux", "Windows 10", "Windows 11",
+    os: "Arch Linux",
     code: ["Javascript", "Typescript", "Python", "Java", "HTML/CSS"],
-    askMeAbout: ["WebDev", "Tech", "FullStack", "FrontEnd", "BackEnd", "MERN"],
+    askMeAbout: ["WebDev", "Tech", "FullStack", "Frontend", "Backend", "MERN"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
-            php: ["Laravel"],
             py: ["Django"]
         },
         frontEnd: {
-            js: ["ReactJS", "Redux", "NextJS"]
+            js: ["ReactJS", "NextJS"]
+        },
+        mobile: {
+            js: ["ReactNative"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "MariaDB"],
-        misc: ["Firebase", "Socket.IO", "Linux", "Bash", "Photoshop", "Premiere"]
+        misc: ["Firebase", "AWS", "Socket.IO", "Linux", "Bash", "Adobe Suite"]
     },
-    currentFocus: "Full Stack Development"
+    currentFocus: "Software Developer"
 };
 ```
 </h3>
