@@ -1,7 +1,7 @@
 <h3>
   
 ```javascript
-var JayTheCreator = {
+var Jaykovsky = {
     name: "Jaisson Machado",
     pronouns: "He" | "Him",
     os: "Arch Linux",
