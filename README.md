@@ -16,7 +16,7 @@ var JayTheCreator = {
             js: ["ReactJS", "NextJS"]
         },
         mobile: {
-            js: ["ReactNative"]
+            js: ["Flutter"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "MariaDB"],
