@@ -5,7 +5,7 @@ var JayTheCreator = {
     name: "Jaisson Machado",
     pronouns: "He" | "Him",
     os: "Arch Linux",
-    code: ["Javascript", "Typescript", "Python", "Java", "HTML/CSS"],
+    code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["WebDev", "Tech", "FullStack", "Frontend", "Backend", "MERN"],
     technologies: {
         backEnd: {
@@ -16,13 +16,12 @@ var JayTheCreator = {
             js: ["ReactJS", "NextJS"]
         },
         mobile: {
-            js: ["Flutter"]
+            dart: ["Flutter"]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "MariaDB"],
-        misc: ["Firebase", "AWS", "Socket.IO", "Linux", "Bash", "Adobe Suite"]
+        databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL", "MariaDB"]
     },
-    currentFocus: "Software Developer"
+    currentFocus: ["Software Developer", "Data Analysis", "Machine Learning"]
 };
 ```
 </h3>
