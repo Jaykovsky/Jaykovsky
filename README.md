@@ -3,7 +3,6 @@
 ```javascript
 var Jaykovsky = {
     name: "Jaisson Machado",
-    pronouns: "He" | "Him",
     os: "Arch Linux",
     code: ["Javascript", "Typescript", "Python", "Java"],
     askMeAbout: ["WebDev", "Tech", "FullStack", "Frontend", "Backend", "MERN"],
